@@ -5,5 +5,5 @@
 - 🔭 I’m currently a CS student at Tsinghua Unversity.
 - 📫 How to reach me: [Gmail](mailto:nldxtd@gmail.com)
 
-⭐️ From [nldxtd](www.nldxtd.com)
+⭐️ From [nldxtd](nldxtd.com)
 Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
