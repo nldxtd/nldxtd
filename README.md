@@ -5,7 +5,7 @@
 - 🔭 I’m currently a CS student at Tsinghua Unversity.
 - 📫 How to reach me: [Gmail](mailto:nldxtd@gmail.com)
 
-### My GitHub Stats
+### My GitHub Stars
 
 ![nldxtd's github stats](https://github-readme-stats.vercel.app/api?username=nldxtd&show_icons=true)
 
